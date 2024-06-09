@@ -26,7 +26,7 @@ Welcome to the GitHub repository for the Image Classifier using Convolutional Ne
 ## Get Started:
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/Elangovan0101/image-classifier.git
+git clone https://github.com/Elangovan0101/Image-classifier.git
 cd image-classifier
 
 2. **Install Dependencies:**
