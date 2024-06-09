@@ -33,7 +33,7 @@ cd image-classifier
 
 pip install tensorflow
 
-3.**Run the code**
+3. **Run the code**
 
 python image_classifier.py
 
